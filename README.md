@@ -3,6 +3,7 @@
 Making a room thermometer with ArduinoUno,AM2302-DHT22 module(Temp/Humidity sensor),
 and a small OLED to display the temperature at.
 
+Very beginer friendly.Almost line by line explanation with comments in code.
 
 Pinout: Oled|Arduino
          SDA: A4
@@ -16,7 +17,6 @@ Pinout: Oled|Arduino
          DAT: Pin6 (Line 10: #define DHTPIN 6)
 
 
-Very beginer friendly.Almost line by line explanation with comments in code.
 
 Scematic:
 
