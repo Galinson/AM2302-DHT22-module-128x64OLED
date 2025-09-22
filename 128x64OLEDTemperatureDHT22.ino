@@ -10,7 +10,7 @@
 #define DHTPIN 6          // Data pin from DHT22 connected to Arduino pin 6
 #define DHTTYPE DHT22     // Define sensor type (DHT22 / AM2302)
 DHT dht(DHTPIN, DHTTYPE); // Create DHT object with pin and type
-int g = 1;
+
 // ---- OLED Setup ----
 #define SCREEN_WIDTH 128   // OLED width
 #define SCREEN_HEIGHT 64   // OLED height
