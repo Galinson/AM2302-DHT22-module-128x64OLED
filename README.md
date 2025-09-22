@@ -19,7 +19,6 @@ Pinout: Oled|Arduino
 
 
 Scematic:
-
                 +-------------------+
                 |    Arduino        |
                 |-------------------|
